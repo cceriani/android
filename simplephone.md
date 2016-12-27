@@ -10,7 +10,7 @@ Nuestra aplicación movil podrá recoger información de contactos de su agenda 
 
 Uso de la información recogida
 
-Nuestra aplicación movil emplea la información con el fin de proporcionar el mejor servicio posible, particularmente para realizar llamadas solo a pedido del usuario de la aplicaicón, y nunca sin su consentimiento.
+Nuestra aplicación movil emplea la información con el fin de proporcionar el mejor servicio posible, particularmente para realizar llamadas solo a pedido del usuario de la aplicación, y nunca sin su consentimiento.
 
 Simple Phone está altamente comprometido para cumplir con el compromiso de mantener su información segura.
 
