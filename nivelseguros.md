@@ -23,7 +23,6 @@ La aplicación movil de Nivel Seguros le solicitará los siguientes permisos sob
      Uso de la cámara de fotos: es necesario utilizar la cámara de fotos de su dispositivo para tomar las fotografías necesarias para emitir una póliza de seguro de su vehículo
      Lectura/Escritura de dispositivo de almacenamiento externo: es necesario para poder almacenar las fotografías de su vehículo
      Leer el estado del teléfono: es necesario para identificar el dispositivo desde el cual se está realizando una solicitud de póliza
-     Leer información de la cuenta: es necesario para identificar la dirección de email del usuario que está realizando una solicitud de póliza
 
 Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento.
 
