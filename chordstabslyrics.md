@@ -23,7 +23,7 @@ Respecto a las compras integradas
 
 Cuando usted adquiere un producto a través de nuestra aplicación, usaremos su información personal para completar su orden. Chords Tabs Lyrics no almacena ni comparte los datos de su tarjeta de crédito con otras compañías. No alquilamos, vendemos ni compartimos información de tarjetas de crédito con ninguna compañía.
 
-Respecto a la publicidad
+Respecto a terceros
 
 Chords Tabs Lyrics puede contratar compañias de servicios de publicidad o análisis para mejorar el funcionamiento de la aplicación. Estas compañías pueden tener acceso a su información personal de manera de poder realizar su tarea adecuadamente pero no tienen permitido usar esta información para ningún otro propósito. Estos otros proveedores de servicios pueden recoger información enviada por su dispositivo como parte de su interacción con la aplicación, como por ejemplo la ID de dispositivo móvil o su localización.
 
